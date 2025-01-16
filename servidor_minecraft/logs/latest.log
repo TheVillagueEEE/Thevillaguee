@@ -1,28 +1,26 @@
-[01:57:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:57:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[01:57:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:57:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Jobs5.2.4.5.jar'...
-[01:57:33] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Jobs5.2.4.5.jar' in 761ms.
-[01:57:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
-[01:57:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
- - DeathChest (2.2.7), Images (2.5.3), Jobs (5.2.4.5), LuckPerms (5.4.131), SetHome (2.0), SimpleTpa (7.4), SkinsRestorer (15.5.1), TAB (5.0.3), TreeAssist (7.3.57), ViaVersion (5.2.1)
-[01:57:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:57:38] [ServerMain/INFO]: Loaded 1290 recipes
-[01:57:39] [ServerMain/INFO]: Loaded 1399 advancements
-[01:57:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:57:39] [Server thread/INFO]: Loading properties
-[01:57:39] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[01:57:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:57:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:57:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:57:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:57:41] [Server thread/INFO]: Default game type: SURVIVAL
-[01:57:41] [Server thread/INFO]: Generating keypair
-[01:57:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:57:41] [Server thread/INFO]: Using epoll channel type
-[01:57:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:57:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:57:41] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/Jobs5.2.4.5.jar' in 'plugins/.paper-remapped'
+[03:23:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[03:23:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[03:23:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:23:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[03:23:59] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
+ - DeathChest (2.2.7), Geyser-Spigot (2.6.0-SNAPSHOT), Images (2.5.3), Jobs (5.2.4.5), LuckPerms (5.4.131), SetHome (2.0), SimpleTpa (7.4), SkinsRestorer (15.5.1), TAB (5.0.3), TreeAssist (7.3.57), ViaBackwards (5.2.1), ViaVersion (5.2.1), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[03:24:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:24:08] [ServerMain/INFO]: Loaded 1290 recipes
+[03:24:08] [ServerMain/INFO]: Loaded 1399 advancements
+[03:24:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:24:08] [Server thread/INFO]: Loading properties
+[03:24:08] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[03:24:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:24:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:24:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:24:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:24:11] [Server thread/INFO]: Default game type: SURVIVAL
+[03:24:11] [Server thread/INFO]: Generating keypair
+[03:24:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:24:11] [Server thread/INFO]: Using epoll channel type
+[03:24:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:24:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:24:11] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/Jobs5.2.4.5.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [CMILib]. Please download and install these plugins to run 'Jobs'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -32,125 +30,147 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
-[01:57:42] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
-[01:57:42] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[01:57:42] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[01:57:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[01:57:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[01:57:45] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[01:57:45] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
-[01:57:45] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
-[01:57:45] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
-[01:57:45] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
-[01:57:45] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
-[01:57:45] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
-[01:57:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[01:57:45] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[01:57:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:57:45] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[01:57:46] [Server thread/INFO]:         __    
-[01:57:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[01:57:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[01:57:46] [Server thread/INFO]: 
-[01:57:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[01:57:46] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[01:57:46] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[01:57:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[01:57:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1187ms)
-[01:57:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[01:57:48] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:57:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[01:57:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:57:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:57:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:57:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:57:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:57:50] [Server thread/INFO]: Preparing level "world"
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:57:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:57:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:57:51] [Server thread/INFO]: Time elapsed: 947 ms
-[01:57:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:57:51] [Server thread/INFO]: Time elapsed: 244 ms
-[01:57:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:57:51] [Server thread/INFO]: Time elapsed: 146 ms
-[01:57:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[01:57:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[01:57:52] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
-[01:57:52] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
-[01:57:52] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
-[01:57:52] [Server thread/INFO]: [TreeAssist] debugging: off
-[01:57:52] [Server thread/INFO]: [Images] Enabling Images v2.5.3
-[01:57:52] [Thread-11/INFO]: [TreeAssist] Checking for updates...
-[01:57:52] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
-[01:57:52] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
-[01:57:52] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[01:57:52] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
-[01:57:52] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[01:57:52] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
-[01:57:52] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
-[01:57:52] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[01:57:52] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[01:57:52] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[01:57:53] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[01:57:53] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[01:57:53] [Server thread/INFO]: [TAB] Loaded NMS hook in 89ms
-[01:57:54] [Server thread/INFO]: [TAB] Enabled in 843ms
-[01:57:54] [Server thread/INFO]: [spark] Starting background profiler...
-[01:57:54] [Server thread/INFO]: Done preparing level "world" (4.549s)
-[01:57:54] [Server thread/INFO]: Running delayed init tasks
-[01:57:54] [Server thread/INFO]: Done (23.196s)! For help, type "help"
-[01:57:54] [Server thread/INFO]: Timings Reset
-[01:57:54] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[01:57:56] [Craft Scheduler Thread - 0 - Images/INFO]: [Images] Loaded 1 images...
-[02:01:41] [User Authenticator #0/INFO]: UUID of player Yuh is 2a1e520b-142a-3fc8-a6c1-f77b8d4ad856
-[02:01:43] [Server thread/INFO]: Yuh joined the game
-[02:01:44] [Server thread/INFO]: Yuh[/127.180.173.57:54655] logged in with entity id 17 at ([world]-480.9531086641673, 65.0, -285.57182630036715)
-[02:01:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e3847fb1-39c5-48af-bfae-fe677c3a18ac, mapped to Pig['Pig'/234, uuid='e3847fb1-39c5-48af-bfae-fe677c3a18ac', l='ServerLevel[world]', x=-418.47, y=76.00, z=-385.05, cpos=[-27, -25], tl=116635, v=true], can't add Pig['Pig'/282, uuid='e3847fb1-39c5-48af-bfae-fe677c3a18ac', l='ServerLevel[world]', x=-414.18, y=80.00, z=-397.76, cpos=[-26, -25], tl=114337, v=false]
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[03:24:14] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[03:24:14] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[03:24:14] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[03:24:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:24:16] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:24:18] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:24:18] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:24:19] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:24:22] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:24:22] [Server thread/INFO]: [floodgate] Took 2,754ms to boot Floodgate
+[03:24:22] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[03:24:22] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[03:24:22] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[03:24:22] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[03:24:22] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[03:24:25] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:24:25] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:24:25] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[03:24:25] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
+[03:24:25] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
+[03:24:25] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[03:24:25] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[03:24:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[03:24:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:24:25] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[03:24:26] [Server thread/INFO]:         __    
+[03:24:26] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[03:24:26] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:24:26] [Server thread/INFO]: 
+[03:24:26] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:24:26] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:24:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:24:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:24:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1494ms)
+[03:24:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[03:24:28] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:24:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[03:24:29] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[03:24:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:24:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:24:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:24:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:24:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:24:30] [Server thread/INFO]: Preparing level "world"
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:24:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:24:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:24:32] [Server thread/INFO]: Time elapsed: 1365 ms
+[03:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:24:32] [Server thread/INFO]: Time elapsed: 199 ms
+[03:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:24:33] [Server thread/INFO]: Time elapsed: 259 ms
+[03:24:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[03:24:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[03:24:33] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[03:24:34] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[03:24:34] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[03:24:34] [Server thread/INFO]: [TAB] Loaded NMS hook in 142ms
+[03:24:36] [Server thread/INFO]: [TAB] Enabled in 1431ms
+[03:24:36] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[03:24:36] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[03:24:37] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[03:24:37] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[03:24:37] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[03:24:37] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[03:24:37] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[03:24:37] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[03:24:37] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[03:24:37] [Server thread/INFO]: [Images] Enabling Images v2.5.3
+[03:24:37] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
+[03:24:37] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[03:24:37] [Server thread/INFO]: [TreeAssist] debugging: off
+[03:24:38] [Thread-12/INFO]: [TreeAssist] Checking for updates...
+[03:24:38] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[03:24:38] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[03:24:38] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[03:24:38] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[03:24:38] [Server thread/INFO]: [spark] Starting background profiler...
+[03:24:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:24:39] [Server thread/INFO]: [Geyser-Spigot] 
+[03:24:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b746 (git-master-07629a4)
+[03:24:39] [Server thread/INFO]: [Geyser-Spigot] 
+[03:24:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:24:48] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1247
+[03:24:48] [Server thread/INFO]: [Geyser-Spigot] Done (9.834s)! Run /geyser help for help!
+[03:24:49] [Server thread/INFO]: Done preparing level "world" (18.304s)
+[03:24:49] [Server thread/INFO]: Running delayed init tasks
+[03:24:49] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:24:49] [Server thread/INFO]: Done (55.271s)! For help, type "help"
+[03:24:49] [Server thread/INFO]: Timings Reset
+[03:24:51] [Craft Scheduler Thread - 6 - Images/INFO]: [Images] Loaded 1 images...
+[03:25:05] [User Authenticator #0/INFO]: UUID of player Yuh is 2a1e520b-142a-3fc8-a6c1-f77b8d4ad856
+[03:25:09] [Server thread/INFO]: Yuh joined the game
+[03:25:09] [Server thread/INFO]: Yuh[/127.187.98.220:53591] logged in with entity id 111 at ([world]4.5, 125.0, 6.5)
+[03:26:19] [Server thread/INFO]: Yuh issued server command: /gamemode creative
+[03:26:19] [Server thread/INFO]: [Yuh: Set own game mode to Creative Mode]
+[03:26:25] [Server thread/INFO]: Yuh issued server command: /pl
