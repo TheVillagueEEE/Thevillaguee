@@ -15,7 +15,7 @@ header-footer:
     - ""
     - ""
     - ""
-    - "&7Visit our webpage %animation:web%"
+    - "%animation:web%"
     - "<#FFFFFF>&5                                              </#FFFF00>"
   disable-condition: '%world%=disabledworld'
   per-world:

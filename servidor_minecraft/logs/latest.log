@@ -73,3 +73,6 @@
 [01:20:23] [Server thread/INFO]: Yuh issued server command: /tab reload
 [01:20:23] [Server thread/INFO]: [TAB] Disabled in 1ms
 [01:20:23] [Server thread/INFO]: [TAB] Enabled in 6ms
+[01:20:46] [Server thread/INFO]: Yuh issued server command: /tab reload
+[01:20:46] [Server thread/INFO]: [TAB] Disabled in 1ms
+[01:20:46] [Server thread/INFO]: [TAB] Enabled in 5ms
