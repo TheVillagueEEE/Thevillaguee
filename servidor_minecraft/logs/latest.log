@@ -163,3 +163,6 @@
 [23:41:56] [Server thread/INFO]: Yuh[/127.11.68.19:51939] logged in with entity id 55 at ([world]51.44153735657835, 91.0, 70.20652530898957)
 [23:44:24] [Server thread/INFO]: Yuh has made the advancement [Monster Hunter]
 [23:44:38] [Server thread/INFO]: Yuh issued server command: /pl
+[23:58:24] [Server thread/INFO]: Yuh issued server command: /tab reload
+[23:58:24] [Server thread/INFO]: [TAB] Disabled in 2ms
+[23:58:24] [Server thread/INFO]: [TAB] Enabled in 34ms
