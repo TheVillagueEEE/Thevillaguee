@@ -7,9 +7,9 @@ header-footer:
     - ""
     - "&1&l>> %animation:Welcome%&f &l%player%&7&l ! &4&l<<"
     - ""
-    - "&7Gente jugando: &f%online%"
+    - "&#ffffff&oR&#dfe4ff&oa&#bfc9ff&om&#9faeff&op&#7f93ff&oi&#5f78ff&om&#5e77fe&op&#7c90fc&oi&#9aa9fa&oo&#b9c2f9&ol&#d7dcf7&oo&#f5f5f5&os&f: &f%online%"
     - ""
-    - "&fPadres de la patria: &b%staffonline%"
+    - "&#0d14d6&l&oP&#4a4fe0&l&oa&#868aeb&l&ot&#c3c4f5&l&or&#ffffff&l&oi&#fdbfbf&l&oo&#fa8080&l&ot&#f84040&l&oa&#f50000&l&os&f: %staffonline%"
     - ""
   footer:
     - ""
