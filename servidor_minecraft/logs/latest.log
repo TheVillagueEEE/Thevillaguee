@@ -386,3 +386,6 @@ java.lang.UnsupportedOperationException: You should use DeathMessagesModern for 
 [18:20:40] [Server thread/INFO]: Yuh issued server command: /lp listgroups
 [18:21:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Yuh> zaza
 [18:28:31] [Server thread/INFO]: Yuh issued server command: /pl
+[18:43:38] [Server thread/INFO]: Yuh issued server command: /time set day
+[18:43:38] [Server thread/INFO]: [Yuh: Set the time to 1000]
+[18:43:56] [Server thread/INFO]: Villager Villager['█                  '/1752, uuid='2e47f899-8a78-400c-8619-9481bce41036', l='ServerLevel[world]', x=-263.37, y=20.25, z=-669.39, cpos=[-17, -42], tl=109526, v=true] died, message: '█                   was slain by Zombie'
