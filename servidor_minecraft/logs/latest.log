@@ -1,79 +1,373 @@
-[00:07:21] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:07:21] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:07:21] [Server thread/INFO]: [TAB] Enabled in 16ms
-[00:08:00] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:08:00] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:08:00] [Server thread/INFO]: [TAB] Enabled in 17ms
-[00:09:32] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:09:32] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:09:32] [Server thread/INFO]: [TAB] Enabled in 34ms
-[00:09:53] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:09:53] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:09:53] [Server thread/INFO]: [TAB] Enabled in 15ms
-[00:12:26] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:12:26] [Server thread/INFO]: [TAB] Disabled in 0ms
-[00:12:26] [Server thread/INFO]: [TAB] Enabled in 12ms
-[00:12:55] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:12:55] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:12:55] [Server thread/INFO]: [TAB] Enabled in 10ms
-[00:13:20] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:13:20] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:13:20] [Server thread/INFO]: [TAB] Enabled in 7ms
-[00:13:36] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:13:36] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:13:36] [Server thread/INFO]: [TAB] Enabled in 9ms
-[00:13:58] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:13:58] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:13:58] [Server thread/INFO]: [TAB] Enabled in 8ms
-[00:19:01] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:19:01] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:19:01] [Server thread/INFO]: [TAB] Enabled in 9ms
-[00:19:24] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:19:24] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:19:24] [Server thread/INFO]: [TAB] Enabled in 8ms
-[00:25:37] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:25:37] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:25:37] [Server thread/INFO]: [TAB] Enabled in 6ms
-[00:26:21] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:26:21] [Server thread/INFO]: [TAB] Disabled in 0ms
-[00:26:21] [Server thread/INFO]: [TAB] Enabled in 7ms
-[00:27:02] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:27:02] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:27:02] [Server thread/INFO]: [TAB] Enabled in 7ms
-[00:27:17] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:27:17] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:27:17] [Server thread/INFO]: [TAB] Enabled in 6ms
-[00:27:55] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:27:55] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:27:55] [Server thread/INFO]: [TAB] Enabled in 5ms
-[00:28:32] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:28:32] [Server thread/INFO]: [TAB] Disabled in 0ms
-[00:28:32] [Server thread/INFO]: [TAB] Enabled in 5ms
-[00:29:06] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:29:06] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:29:06] [Server thread/INFO]: [TAB] Enabled in 6ms
-[00:29:29] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:29:29] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:29:29] [Server thread/INFO]: [TAB] Enabled in 4ms
-[00:31:19] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:31:19] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:31:19] [Server thread/INFO]: [TAB] Enabled in 6ms
-[00:31:55] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:31:55] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:31:55] [Server thread/INFO]: [TAB] Enabled in 7ms
-[00:32:13] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:32:13] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:32:13] [Server thread/INFO]: [TAB] Enabled in 6ms
-[00:32:39] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:32:39] [Server thread/INFO]: [TAB] Disabled in 0ms
-[00:32:39] [Server thread/INFO]: [TAB] Enabled in 8ms
-[00:35:37] [Server thread/INFO]: Yuh issued server command: /tab reload
-[00:35:37] [Server thread/INFO]: [TAB] Disabled in 1ms
-[00:35:37] [Server thread/INFO]: [TAB] Enabled in 8ms
-[01:20:23] [Server thread/INFO]: Yuh issued server command: /tab reload
-[01:20:23] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:20:23] [Server thread/INFO]: [TAB] Enabled in 6ms
-[01:20:46] [Server thread/INFO]: Yuh issued server command: /tab reload
-[01:20:46] [Server thread/INFO]: [TAB] Disabled in 1ms
-[01:20:46] [Server thread/INFO]: [TAB] Enabled in 5ms
-[01:50:48] [Server thread/INFO]: Yuh issued server command: /pl
+[17:58:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[17:58:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:58:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:58:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 23 plugins
+[17:58:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (23):
+ - BetterStructures (1.7.7), Craftorithm (1.10.16-20241225), DeathChest (2.2.7), DeathMessages (1.4.20), DecentHolograms (2.8.12), DoorsReloaded (1.3.1), GSit (1.13.0), Geyser-Spigot (2.6.0-SNAPSHOT), HealthBar-Reloaded (2.0.4.1), Images (2.5.3), LuckPerms (5.4.131), PicoJobs (1.0-pre), PlaceholderAPI (2.11.6), SetHome (2.0), SimpleTpa (7.4), SkinsRestorer (15.5.1), TAB (5.0.3), TerraformGenerator (18.1.1), TreeAssist (7.3.57), ViaBackwards (5.2.1), ViaVersion (5.2.1), WorldEdit (7.3.9+6959-7adf70b), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[17:58:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:58:58] [ServerMain/INFO]: Loaded 1290 recipes
+[17:58:58] [ServerMain/INFO]: Loaded 1399 advancements
+[17:58:59] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:58:59] [Server thread/INFO]: Loading properties
+[17:58:59] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:58:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:58:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:58:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:59:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:59:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:59:00] [Server thread/INFO]: Generating keypair
+[17:59:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:59:01] [Server thread/INFO]: Using epoll channel type
+[17:59:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:59:01] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:59:03] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[17:59:04] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/Thevillaguee/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[17:59:04] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[17:59:04] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[17:59:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[17:59:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[17:59:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[17:59:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[17:59:08] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[17:59:08] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:59:09] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[17:59:09] [Server thread/INFO]: [floodgate] Took 1,513ms to boot Floodgate
+[17:59:09] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[17:59:09] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v18.1.1
+[17:59:09] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[17:59:11] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@287f82e]
+[17:59:11] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[17:59:11] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.13.0
+[17:59:11] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[17:59:11] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.1
+[17:59:11] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[17:59:11] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v2.0
+[17:59:11] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[17:59:13] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:59:13] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:59:13] [Server thread/INFO]: [PicoJobs] Loading server plugin PicoJobs v1.0-pre
+[17:59:13] [Server thread/INFO]: [PicoJobs] Loading dependencies, this might take some minutes when ran for the first time...
+[17:59:13] [Server thread/INFO]: [PicoJobs] All dependencies were loaded sucessfully.
+[17:59:13] [Server thread/INFO]: [Craftorithm] Loading server plugin Craftorithm v1.10.16-20241225
+[17:59:13] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[17:59:13] [Server thread/INFO]: [BetterStructures] Loading server plugin BetterStructures v1.7.7
+[17:59:13] [Server thread/INFO]: [BetterStructures] MagmaCore v1.7 initialized!
+[17:59:13] [Server thread/INFO]: [BetterStructures] WorldGuard is not enabled! WorldGuard is recommended when using the EliteMobs integration.
+[17:59:13] [Server thread/INFO]: [DoorsReloaded] Loading server plugin DoorsReloaded v1.3.1
+[17:59:13] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
+[17:59:13] [Server thread/INFO]: [TreeAssist] Loading server plugin TreeAssist v7.3.57
+[17:59:13] [Server thread/INFO]: [TreeAssist] Loading main config file: /config.yml
+[17:59:14] [Server thread/INFO]: [DeathMessages] Loading server plugin DeathMessages v1.4.20
+[17:59:14] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[17:59:14] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[17:59:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:59:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[17:59:14] [Server thread/INFO]:         __    
+[17:59:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[17:59:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:59:14] [Server thread/INFO]: 
+[17:59:14] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:59:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:59:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:59:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:59:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1449ms)
+[17:59:15] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v18.1.1
+[17:59:16] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[17:59:16] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[17:59:16] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.1, number: 21.1
+[17:59:17] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[17:59:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:59:17] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:59:17] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[17:59:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[17:59:19] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[17:59:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[17:59:20] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[17:59:21] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:59:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[17:59:21] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[17:59:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:59:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:59:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:59:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:59:21] [Server thread/INFO]: Preparing level "world"
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:59:21] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:59:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:59:23] [Server thread/INFO]: Time elapsed: 1526 ms
+[17:59:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:59:24] [Server thread/INFO]: Time elapsed: 247 ms
+[17:59:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:59:24] [Server thread/INFO]: Time elapsed: 120 ms
+[17:59:24] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[17:59:24] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[17:59:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[17:59:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:59:24] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[17:59:25] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[17:59:25] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
+[17:59:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.13.0]
+[17:59:25] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[17:59:25] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[17:59:25] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[17:59:25] [Server thread/INFO]: [TAB] Loaded NMS hook in 82ms
+[17:59:26] [Server thread/INFO]: [TAB] Enabled in 577ms
+[17:59:26] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.1
+[17:59:26] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[17:59:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[17:59:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[17:59:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[17:59:26] [Server thread/INFO]: [SetHome] Enabling SetHome v2.0
+[17:59:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[17:59:27] [Server thread/INFO]: [PicoJobs] Enabling PicoJobs v1.0-pre
+[17:59:27] [Server thread/INFO]: [PicoJobs] Plugin created by: picono435. Thank you for using it
+[17:59:27] [Server thread/INFO]: [PicoJobs] Registered EXP economy implementation.
+[17:59:27] [Server thread/INFO]: [PicoJobs] Registered COMMAND economy implementation.
+[17:59:27] [Server thread/INFO]: [PicoJobs] Registered ITEM economy implementation.
+[17:59:27] [Server thread/INFO]: [PicoJobs] Registered BIOME work zone implementation.
+[17:59:27] [Server thread/INFO]: [PicoJobs] Registered WORLD work zone implementation.
+[17:59:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: job [1.0-pre]
+[17:59:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobplayer [1.0-pre]
+[17:59:27] [Server thread/INFO]: [PicoJobs] Generating jobs from the configuration files...
+[17:59:27] [Server thread/INFO]: [PicoJobs] Retrieving jobs from the config...
+[17:59:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[17:59:27] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[17:59:27] [Server thread/INFO]: [PicoJobs] The plugin was successfully loaded.
+[17:59:27] [Server thread/INFO]: [PicoJobs] You are using the latest version of the plugin.
+[17:59:27] [Server thread/INFO]: [Craftorithm] Enabling Craftorithm v1.10.16-20241225
+[17:59:27] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[17:59:28] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[17:59:28] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[17:59:28] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[17:59:28] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[17:59:28] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[17:59:28] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[17:59:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: DeathChest [2.2.7]
+[17:59:28] [Server thread/INFO]: [BetterStructures] Enabling BetterStructures v1.7.7
+[17:59:28] [Server thread/INFO]:     ____       __  __            _____ __                  __                      
+[17:59:28] [Server thread/INFO]:    / __ )___  / /_/ /____  _____/ ___// /________  _______/ /___  __________  _____
+[17:59:28] [Server thread/INFO]:   / __  / _ \/ __/ __/ _ \/ ___/\__ \/ __/ ___/ / / / ___/ __/ / / / ___/ _ \/ ___/
+[17:59:28] [Server thread/INFO]:  / /_/ /  __/ /_/ /_/  __/ /   ___/ / /_/ /  / /_/ / /__/ /_/ /_/ / /  /  __(__  ) 
+[17:59:28] [Server thread/INFO]: /_____/\___/\__/\__/\___/_/   /____/\__/_/   \__,_/\___/\__/\__,_/_/   \___/____/
+[17:59:28] [Server thread/INFO]: [BetterStructures] Initialized version 1.7.7!
+[17:59:28] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 127 ms to scan 1 urls, producing 1 keys and 5 values
+[17:59:28] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 6 ms to scan 1 urls, producing 1 keys and 29 values
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_barren.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_nether.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_barren.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_tundra.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_ruins_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_ruins_end.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_tundra.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_grassland.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_barren.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_end.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_end.yml will not be used.
+[17:59:34] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_mines_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:34] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_mines_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_desert.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_nether.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_tundra.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_desert.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_tundra.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_tundra.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_desert.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_nether.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_barren.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_tundra.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_nether.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_nether.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_desert.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_barren.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_flagship_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_flagship_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_deepunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_deepunderground.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_dripstone.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_dripstone.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_lush.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_lush.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_desert.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_tundra.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_tundra.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_hiddendungeon_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_hiddendungeon_nether.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_watertubes_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_watertubes_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_floatingcave_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_floatingcave_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_grassland.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_end.yml will not be used.
+[17:59:35] [Server thread/WARN]: [BetterStructures] betterstructures_em_throneroom_shallowunderground.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:35] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_throneroom_shallowunderground.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_barren.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_barren.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_barren.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_nether.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_desert.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_surfacedungeon_end.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_surfacedungeon_end.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] bs_lostcivilizations_free_prison_dripstone.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, bs_lostcivilizations_free_prison_dripstone.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_teetharena_nether.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_teetharena_nether.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_circletemple_desert.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_circletemple_desert.yml will not be used.
+[17:59:36] [Server thread/WARN]: [BetterStructures] betterstructures_em_tower_grassland.yml uses EliteMobs bosses but you do not have EliteMobs installed! BetterStructures does not require EliteMobs to work, but if you want cool EliteMobs boss fights you will have to install EliteMobs here: https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/
+[17:59:36] [Server thread/WARN]: [BetterStructures] Since EliteMobs is not installed, betterstructures_em_tower_grassland.yml will not be used.
+[17:59:36] [Server thread/INFO]: [org.reflections.Reflections] Reflections took 2 ms to scan 1 urls, producing 1 keys and 8 values
+[17:59:36] [Server thread/INFO]: [DoorsReloaded] Enabling DoorsReloaded v1.3.1
+[17:59:36] [Server thread/INFO]: [Images] Enabling Images v2.5.3
+[17:59:36] [Server thread/INFO]: [TreeAssist] Enabling TreeAssist v7.3.57
+[17:59:36] [Server thread/INFO]: [TreeAssist] sending full Metrics! You can deactivate this in the config.yml
+[17:59:36] [Server thread/INFO]: [TreeAssist] debugging: off
+[17:59:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ta [0.0.1]
+[17:59:36] [Thread-18/INFO]: [TreeAssist] Checking for updates...
+[17:59:36] [Server thread/INFO]: [DeathMessages] Enabling DeathMessages v1.4.20
+[17:59:36] [Server thread/ERROR]: Error occurred while enabling DeathMessages v1.4.20 (Is it up to date?)
+java.lang.UnsupportedOperationException: You should use DeathMessagesModern for version >= 1.20.5
+	at DeathMessages-Legacy-1.4.20.jar/dev.mrshawn.deathmessages.utils.PlatformUtil.init(PlatformUtil.java:11) ~[DeathMessages-Legacy-1.4.20.jar:?]
+	at DeathMessages-Legacy-1.4.20.jar/dev.mrshawn.deathmessages.DeathMessages.onEnable(DeathMessages.java:57) ~[DeathMessages-Legacy-1.4.20.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:59:36] [Server thread/INFO]: [DeathMessages] Disabling DeathMessages v1.4.20
+[17:59:36] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[17:59:36] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[17:59:36] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[17:59:36] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[17:59:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.4]
+[17:59:36] [Server thread/INFO]: [spark] Starting background profiler...
+[17:59:37] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:59:37] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[17:59:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:59:37] [Server thread/INFO]: [Geyser-Spigot] 
+[17:59:37] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b746 (git-master-07629a4)
+[17:59:37] [Server thread/INFO]: [Geyser-Spigot] 
+[17:59:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:59:44] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1247
+[17:59:44] [Server thread/INFO]: [Geyser-Spigot] Done (6.792s)! Run /geyser help for help!
+[17:59:44] [Server thread/INFO]: Done preparing level "world" (23.041s)
+[17:59:44] [Server thread/INFO]: Running delayed init tasks
+[17:59:44] [Server thread/INFO]: [PicoJobs] [PicoJobs] 3 economy implementations successfully registered!
+[17:59:44] [Server thread/INFO]: [PicoJobs] [PicoJobs] 2 work zones implementations successfully registered!
+[17:59:44] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin NeigeItems not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin EcoItems not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin ExecutableItems not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin ItemsAdder not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin MMOItems not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin MythicMobs not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin Oraxen not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin PlayerPoints not found.
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin Vault not found.
+[17:59:44] [Craft Scheduler Thread - 9 - BetterStructures/INFO]: [BetterStructures] Latest public release is 1.7.7
+[17:59:44] [Craft Scheduler Thread - 9 - BetterStructures/INFO]: [BetterStructures] Your version is 1.7.7
+[17:59:44] [Server thread/INFO]: [Craftorithm] Plugin loaded successfully.
+[17:59:44] [Server thread/INFO]: Done (53.109s)! For help, type "help"
+[17:59:44] [Server thread/INFO]: Timings Reset
+[17:59:44] [Craft Scheduler Thread - 9 - BetterStructures/INFO]: [BetterStructures] You are running the latest version!
+[17:59:46] [Craft Scheduler Thread - 5 - Images/INFO]: [Images] Loaded 1 images...
+[18:02:51] [User Authenticator #0/INFO]: UUID of player Yuh is 2a1e520b-142a-3fc8-a6c1-f77b8d4ad856
+[18:02:53] [Server thread/INFO]: Yuh joined the game
+[18:02:54] [Server thread/INFO]: Yuh[/127.13.42.225:48347] logged in with entity id 12 at ([world]-342.4420802181145, 64.0, -719.9520157186313)
+[18:07:50] [Server thread/INFO]: Yuh issued server command: /weather clear
+[18:07:50] [Server thread/INFO]: [Yuh: Set the weather to clear]
+[18:08:05] [Server thread/INFO]: Yuh has made the advancement [Monster Hunter]
+[18:08:07] [Server thread/INFO]: Villager Villager['█                  '/14, uuid='fa01b9f4-b66a-4838-a089-faf7a8d1c556', l='ServerLevel[world]', x=-319.47, y=68.85, z=-719.53, cpos=[-20, -45], tl=29751, v=true] died, message: '█                   was slain by Yuh'
