@@ -371,3 +371,13 @@ java.lang.UnsupportedOperationException: You should use DeathMessagesModern for 
 [18:07:50] [Server thread/INFO]: [Yuh: Set the weather to clear]
 [18:08:05] [Server thread/INFO]: Yuh has made the advancement [Monster Hunter]
 [18:08:07] [Server thread/INFO]: Villager Villager['█                  '/14, uuid='fa01b9f4-b66a-4838-a089-faf7a8d1c556', l='ServerLevel[world]', x=-319.47, y=68.85, z=-719.53, cpos=[-20, -45], tl=29751, v=true] died, message: '█                   was slain by Yuh'
+[18:10:06] [Server thread/INFO]: Yuh issued server command: /time set day
+[18:10:06] [Server thread/INFO]: [Yuh: Set the time to 1000]
+[18:18:08] [Server thread/INFO]: Yuh issued server command: /pl
+[18:18:15] [Server thread/INFO]: Yuh lost connection: Timed out
+[18:18:15] [Server thread/INFO]: Yuh left the game
+[18:18:24] [User Authenticator #1/INFO]: UUID of player Yuh is 2a1e520b-142a-3fc8-a6c1-f77b8d4ad856
+[18:18:27] [Server thread/INFO]: Yuh joined the game
+[18:18:27] [Server thread/INFO]: Yuh[/127.13.42.225:53453] logged in with entity id 1651 at ([world]-334.1726472513415, 64.0, -704.7878694526548)
+[18:18:39] [Server thread/INFO]: Yuh issued server command: /pl
+[18:19:52] [Server thread/INFO]: Yuh issued server command: /doorsreloaded Yuh
