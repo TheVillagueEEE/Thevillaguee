@@ -381,3 +381,8 @@ java.lang.UnsupportedOperationException: You should use DeathMessagesModern for 
 [18:18:27] [Server thread/INFO]: Yuh[/127.13.42.225:53453] logged in with entity id 1651 at ([world]-334.1726472513415, 64.0, -704.7878694526548)
 [18:18:39] [Server thread/INFO]: Yuh issued server command: /pl
 [18:19:52] [Server thread/INFO]: Yuh issued server command: /doorsreloaded Yuh
+[18:20:33] [Server thread/INFO]: Yuh issued server command: /lp listgroups
+[18:20:37] [Server thread/INFO]: Yuh issued server command: /lp listgroup
+[18:20:40] [Server thread/INFO]: Yuh issued server command: /lp listgroups
+[18:21:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Yuh> zaza
+[18:28:31] [Server thread/INFO]: Yuh issued server command: /pl
